@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Diagnostics;
 
-namespace TabbedAppSample.ViewModels.ViewModels
+namespace TabbedAppSample.ViewModels
 {
 	public class TabbedPageHostViewModel : BindableBase
 	{

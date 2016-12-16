@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace TabbedAppSample.ViewModels.ViewModels
+namespace TabbedAppSample.ViewModels
 {
 	public class AnotherPageViewModel : BindableBase
 	{
